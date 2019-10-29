@@ -1,0 +1,8 @@
+{
+    "groups": {
+        "k8s_cluster_info" : { "fg": "white", "bg": "black", "attrs": []   },
+        "k8s_nonprod": { "fg": "white", "bg": "darkblue", "attrs": []  },
+        "k8s_prod": { "fg": "white", "bg": "red", "attrs": [] },
+        "hostname" : {"fg": "white", "bg":"darkblue", "attrs" : []}
+    }
+}
